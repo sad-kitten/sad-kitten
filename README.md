@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sad-kitten
-- 👀 I’m interested in python, data analytics, Lean/TPS/Quality Improvement, finance/investing, cybersecurity
+- 👀 I’m interested in python, data analytics, Lean/TPS/Quality Improvement, financial/business analysis
 - 🌱 I’m currently learning data analytics
 - 📫 How to reach me - message here on github
 - 💞️ I’m looking ... for work. 
